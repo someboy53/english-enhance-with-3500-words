@@ -152,3 +152,9 @@ eng-enhance/
 ## License
 
 MIT
+
+---
+
+## Have Questions or Ideas?
+
+If you have any questions, suggestions, or want to discuss improvements, feel free to **open an issue** on this repo. Let's make English learning better together!

@@ -1,0 +1,1139 @@
+{
+  "transcript": "Different Countries Have Different Kinds of Englishes\nVoyages of people from England play an important part in spreading the English language. At present, English is frequently spoken as an official or common language in many countries, such as America, Singapore, Malaysia and some African countries. All based on British English, the English spoken in these countries can be well understood by native English speakers. But actually, these Englishes have been gradually changing in accents, spellings, expressions and the usage of vocabulary.\nBecause of this fact, you can make use of the differences to tell which country the foreigners of your block are from. For example, if a boss fluently commands his driver, Come up straight to my apartment by elevator and take some gas for my trucks and cabs, instead of requesting, Please come to my flat by lift and take some petrol for my lorries and taxis, you can recognize his American identity, while the latter suggests that he is British.",
+  "words": [
+    {
+      "alignedWord": "different",
+      "start": 8.6815,
+      "end": 9.0615625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "countries",
+      "start": 9.0815625,
+      "end": 9.7016875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "have",
+      "start": 9.80175,
+      "end": 9.96175,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "different",
+      "start": 10.02175,
+      "end": 10.3418125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "kinds",
+      "start": 10.4018125,
+      "end": 10.801875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "of",
+      "start": 10.8819375,
+      "end": 10.9419375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "englishes",
+      "start": 11.0619375,
+      "end": 11.8220625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "voyages",
+      "start": 13.0623125,
+      "end": 13.7424375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "of",
+      "start": 13.8824375,
+      "end": 13.9825,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "people",
+      "start": 14.0825,
+      "end": 14.5025625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "from",
+      "start": 14.5825625,
+      "end": 14.742625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "england",
+      "start": 14.862625,
+      "end": 15.3026875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "play",
+      "start": 15.8828125,
+      "end": 16.182875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "an",
+      "start": 16.262875,
+      "end": 16.342875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "important",
+      "start": 16.382875,
+      "end": 16.843,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "part",
+      "start": 16.883,
+      "end": 17.2230625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "in",
+      "start": 17.3630625,
+      "end": 17.4430625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "spreading",
+      "start": 17.543125,
+      "end": 17.9631875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "the",
+      "start": 18.0431875,
+      "end": 18.1231875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "english",
+      "start": 18.38325,
+      "end": 18.7433125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "language",
+      "start": 18.8233125,
+      "end": 19.3634375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "at",
+      "start": 20.423625,
+      "end": 20.523625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "present",
+      "start": 20.603625,
+      "end": 21.08375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "english",
+      "start": 21.6638125,
+      "end": 22.003875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "is",
+      "start": 22.0439375,
+      "end": 22.1239375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "frequently",
+      "start": 22.2639375,
+      "end": 22.7240625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "spoken",
+      "start": 22.8240625,
+      "end": 23.324125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "as",
+      "start": 23.5441875,
+      "end": 23.6441875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "an",
+      "start": 23.7041875,
+      "end": 23.78425,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "official",
+      "start": 23.82425,
+      "end": 24.3443125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "or",
+      "start": 24.684375,
+      "end": 24.784375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "common",
+      "start": 24.8644375,
+      "end": 25.2245,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "language",
+      "start": 25.2845,
+      "end": 25.7445625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "in",
+      "start": 25.8245625,
+      "end": 25.884625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "many",
+      "start": 25.964625,
+      "end": 26.184625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "countries",
+      "start": 26.3046875,
+      "end": 26.9248125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "such",
+      "start": 27.544875,
+      "end": 27.7649375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "as",
+      "start": 27.8449375,
+      "end": 28.005,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "america",
+      "start": 28.105,
+      "end": 28.665125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "singapore",
+      "start": 29.36525,
+      "end": 30.105375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "malaysia",
+      "start": 30.5854375,
+      "end": 31.1455625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "and",
+      "start": 31.525625,
+      "end": 31.645625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "some",
+      "start": 31.705625,
+      "end": 31.8656875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "african",
+      "start": 31.9656875,
+      "end": 32.38575,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "countries",
+      "start": 32.46575,
+      "end": 33.065875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "all",
+      "start": 33.9460625,
+      "end": 34.1060625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "based",
+      "start": 34.2060625,
+      "end": 34.6461875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "on",
+      "start": 34.8461875,
+      "end": 34.9461875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "british",
+      "start": 35.02625,
+      "end": 35.3463125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "english",
+      "start": 35.4463125,
+      "end": 35.866375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "the",
+      "start": 36.6465,
+      "end": 36.7465625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "english",
+      "start": 36.8265625,
+      "end": 37.146625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "spoken",
+      "start": 37.186625,
+      "end": 37.6666875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "in",
+      "start": 37.80675,
+      "end": 37.88675,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "these",
+      "start": 37.94675,
+      "end": 38.1868125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "countries",
+      "start": 38.2268125,
+      "end": 38.8869375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "can",
+      "start": 38.9669375,
+      "end": 39.1069375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "be",
+      "start": 39.167,
+      "end": 39.227,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "well",
+      "start": 39.347,
+      "end": 39.5870625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "understood",
+      "start": 39.7070625,
+      "end": 40.4271875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "by",
+      "start": 40.84725,
+      "end": 40.9873125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "native",
+      "start": 41.0873125,
+      "end": 41.487375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "english",
+      "start": 41.587375,
+      "end": 41.9274375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "speakers",
+      "start": 41.9675,
+      "end": 42.5675625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "but",
+      "start": 43.46775,
+      "end": 43.58775,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "actually",
+      "start": 43.68775,
+      "end": 44.187875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "these",
+      "start": 44.948,
+      "end": 45.2280625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "englishes",
+      "start": 45.3080625,
+      "end": 45.8881875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "have",
+      "start": 46.0481875,
+      "end": 46.20825,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "been",
+      "start": 46.22825,
+      "end": 46.36825,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "gradually",
+      "start": 46.42825,
+      "end": 46.928375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "changing",
+      "start": 47.008375,
+      "end": 47.5685,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "in",
+      "start": 47.6685,
+      "end": 47.7485,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "accents",
+      "start": 47.9085625,
+      "end": 48.468625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "spellings",
+      "start": 49.04875,
+      "end": 49.728875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "expressions",
+      "start": 50.1489375,
+      "end": 51.069125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "and",
+      "start": 51.5291875,
+      "end": 51.7091875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "the",
+      "start": 51.74925,
+      "end": 51.82925,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "usage",
+      "start": 51.96925,
+      "end": 52.4093125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "of",
+      "start": 52.489375,
+      "end": 52.569375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "vocabulary",
+      "start": 52.629375,
+      "end": 53.3895,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "because",
+      "start": 54.3696875,
+      "end": 54.80975,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "of",
+      "start": 54.82975,
+      "end": 54.9098125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "this",
+      "start": 54.9698125,
+      "end": 55.1498125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "fact",
+      "start": 55.249875,
+      "end": 55.6099375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "you",
+      "start": 56.11,
+      "end": 56.21,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "can",
+      "start": 56.23,
+      "end": 56.3700625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "make",
+      "start": 56.4300625,
+      "end": 56.690125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "use",
+      "start": 56.850125,
+      "end": 57.0701875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "of",
+      "start": 57.1101875,
+      "end": 57.1901875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "the",
+      "start": 57.2301875,
+      "end": 57.3101875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "differences",
+      "start": 57.37025,
+      "end": 58.130375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "to",
+      "start": 58.4904375,
+      "end": 58.5704375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "tell",
+      "start": 58.6304375,
+      "end": 58.8505,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "which",
+      "start": 58.9305,
+      "end": 59.1705625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "country",
+      "start": 59.2505625,
+      "end": 59.7706875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "the",
+      "start": 59.9506875,
+      "end": 60.0506875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "foreigners",
+      "start": 60.15075,
+      "end": 60.7908125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "of",
+      "start": 60.850875,
+      "end": 60.930875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "your",
+      "start": 60.970875,
+      "end": 61.110875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "block",
+      "start": 61.1909375,
+      "end": 61.531,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "are",
+      "start": 61.711,
+      "end": 61.831,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "from",
+      "start": 61.8710625,
+      "end": 62.1310625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "for",
+      "start": 63.731375,
+      "end": 63.891375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "example",
+      "start": 63.951375,
+      "end": 64.5115,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "if",
+      "start": 65.091625,
+      "end": 65.171625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "a",
+      "start": 65.231625,
+      "end": 65.251625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "boss",
+      "start": 65.4116875,
+      "end": 65.75175,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "fluently",
+      "start": 66.01175,
+      "end": 66.591875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "commands",
+      "start": 66.691875,
+      "end": 67.212,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "his",
+      "start": 67.272,
+      "end": 67.392,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "driver",
+      "start": 67.4720625,
+      "end": 67.932125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "come",
+      "start": 68.79225,
+      "end": 69.0123125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "up",
+      "start": 69.0523125,
+      "end": 69.1523125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "straight",
+      "start": 69.252375,
+      "end": 69.552375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "to",
+      "start": 69.6124375,
+      "end": 69.6724375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "my",
+      "start": 69.7324375,
+      "end": 69.8724375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "apartment",
+      "start": 69.9325,
+      "end": 70.612625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "by",
+      "start": 70.892625,
+      "end": 71.0726875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "elevator",
+      "start": 71.0926875,
+      "end": 71.61275,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "and",
+      "start": 71.9528125,
+      "end": 72.052875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "take",
+      "start": 72.112875,
+      "end": 72.332875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "some",
+      "start": 72.3729375,
+      "end": 72.5529375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "gas",
+      "start": 72.6129375,
+      "end": 72.893,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "for",
+      "start": 72.973,
+      "end": 73.0930625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "my",
+      "start": 73.1330625,
+      "end": 73.2330625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "trucks",
+      "start": 73.3330625,
+      "end": 73.673125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "and",
+      "start": 73.733125,
+      "end": 73.8331875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "cabs",
+      "start": 73.8731875,
+      "end": 74.41325,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "instead",
+      "start": 75.3534375,
+      "end": 75.7135,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "of",
+      "start": 75.7335,
+      "end": 75.8135,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "requesting",
+      "start": 75.8735625,
+      "end": 76.5736875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "please",
+      "start": 77.2938125,
+      "end": 77.633875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "come",
+      "start": 77.673875,
+      "end": 77.873875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "to",
+      "start": 77.913875,
+      "end": 77.9739375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "my",
+      "start": 78.0339375,
+      "end": 78.1739375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "flat",
+      "start": 78.2939375,
+      "end": 78.574,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "by",
+      "start": 78.634,
+      "end": 78.7540625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "lift",
+      "start": 78.9740625,
+      "end": 79.334125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "and",
+      "start": 79.5941875,
+      "end": 79.69425,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "take",
+      "start": 79.75425,
+      "end": 79.95425,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "some",
+      "start": 79.99425,
+      "end": 80.1743125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "petrol",
+      "start": 80.2143125,
+      "end": 80.674375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "for",
+      "start": 80.7544375,
+      "end": 80.8744375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "my",
+      "start": 80.9144375,
+      "end": 81.0344375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "lorries",
+      "start": 81.1145,
+      "end": 81.6345625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "and",
+      "start": 81.814625,
+      "end": 81.934625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "taxis",
+      "start": 81.974625,
+      "end": 82.61475,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "you",
+      "start": 83.7149375,
+      "end": 83.8149375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "can",
+      "start": 83.8349375,
+      "end": 83.935,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "recognize",
+      "start": 83.995,
+      "end": 84.595125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "his",
+      "start": 84.615125,
+      "end": 84.735125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "american",
+      "start": 84.795125,
+      "end": 85.35525,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "identity",
+      "start": 85.51525,
+      "end": 86.015375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "while",
+      "start": 86.7155,
+      "end": 87.0955625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "the",
+      "start": 87.1755625,
+      "end": 87.2555625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "latter",
+      "start": 87.3355625,
+      "end": 87.695625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "suggests",
+      "start": 87.9756875,
+      "end": 88.5158125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "that",
+      "start": 88.5558125,
+      "end": 88.7158125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "he",
+      "start": 88.7758125,
+      "end": 88.875875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "is",
+      "start": 89.035875,
+      "end": 89.1759375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "british",
+      "start": 89.2759375,
+      "end": 89.696,
+      "score": 0.0,
+      "case": "success"
+    }
+  ]
+}

@@ -4,8 +4,10 @@ __pycache__/
 *.pyo
 *.egg-info/
 
-# Archives (large binary files — sync separately)
-archives/
+# Archives (only git-track specific ones)
+archives/*
+!archives/01_fall-in-love-with-english/
+!archives/02_different-countries-have-different-kinds-of-englishes/
 
 # Test files
 test/

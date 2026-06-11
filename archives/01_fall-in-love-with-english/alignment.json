@@ -1,0 +1,1300 @@
+{
+  "transcript": "Fall in Love with English\nHiding behind the loose dusty curtain, a teenager packed up his overcoat into the suitcase. He planned to leave home at dusk though there was thunder and lightning outdoors. He had got to do this because he was tired of his paren'ts nagging about his English study and did not want to go through it any longer. He couldn't get along well with English and disliked joining in English classes because he thought his teacher ignored him on purpose. As a result, his score in each exam never added up to over 60.\nHis partner was concerned about him very much. She understood exactly what he was suffering from, but entirely disagreed with his idea. In order to calm him down and settle his problem, she talked with him face to face and swapped a series of learning tips with him. The items she set down helped him find the highway to studying English well.\nThe teenager was grateful and got great power from his friends words. Now, he has recovered from being upset and has fallen in love with English.",
+  "words": [
+    {
+      "alignedWord": "fall",
+      "start": 22.8018125,
+      "end": 23.101875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "in",
+      "start": 23.261875,
+      "end": 23.341875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "love",
+      "start": 23.441875,
+      "end": 23.741875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "with",
+      "start": 23.8019375,
+      "end": 23.9419375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "english",
+      "start": 24.0619375,
+      "end": 24.5019375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "hiding",
+      "start": 26.062125,
+      "end": 26.442125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "behind",
+      "start": 26.482125,
+      "end": 26.9021875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "the",
+      "start": 26.9421875,
+      "end": 27.0221875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "loose",
+      "start": 27.0621875,
+      "end": 27.3621875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "dusty",
+      "start": 27.4021875,
+      "end": 27.74225,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "curtain",
+      "start": 27.82225,
+      "end": 28.24225,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "a",
+      "start": 28.8823125,
+      "end": 28.9023125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "teenager",
+      "start": 28.9823125,
+      "end": 29.522375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "packed",
+      "start": 29.622375,
+      "end": 29.9424375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "up",
+      "start": 29.9824375,
+      "end": 30.1024375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "his",
+      "start": 30.1424375,
+      "end": 30.2824375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "overcoat",
+      "start": 30.3824375,
+      "end": 30.9225,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "into",
+      "start": 31.0425,
+      "end": 31.2425,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "the",
+      "start": 31.2825,
+      "end": 31.3625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "suitcase",
+      "start": 31.4825625,
+      "end": 32.1225625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "he",
+      "start": 32.822625,
+      "end": 32.882625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "planned",
+      "start": 32.9626875,
+      "end": 33.2626875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "to",
+      "start": 33.2826875,
+      "end": 33.3426875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "leave",
+      "start": 33.3826875,
+      "end": 33.5826875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "home",
+      "start": 33.6026875,
+      "end": 33.80275,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "at",
+      "start": 33.84275,
+      "end": 33.92275,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "dusk",
+      "start": 34.00275,
+      "end": 34.36275,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "though",
+      "start": 34.7428125,
+      "end": 34.9028125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "there",
+      "start": 34.9028125,
+      "end": 35.0428125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "was",
+      "start": 35.0428125,
+      "end": 35.1428125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "thunder",
+      "start": 35.262875,
+      "end": 35.602875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "and",
+      "start": 35.702875,
+      "end": 35.822875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "lightning",
+      "start": 35.862875,
+      "end": 36.2629375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "outdoors",
+      "start": 36.3229375,
+      "end": 36.903,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "he",
+      "start": 37.7230625,
+      "end": 37.7830625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "had",
+      "start": 37.8430625,
+      "end": 37.9630625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "got",
+      "start": 38.0430625,
+      "end": 38.2430625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "to",
+      "start": 38.3030625,
+      "end": 38.383125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "do",
+      "start": 38.463125,
+      "end": 38.543125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "this",
+      "start": 38.643125,
+      "end": 38.883125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "because",
+      "start": 39.063125,
+      "end": 39.3831875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "he",
+      "start": 39.4031875,
+      "end": 39.4631875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "was",
+      "start": 39.5231875,
+      "end": 39.6431875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "tired",
+      "start": 39.7231875,
+      "end": 40.12325,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "of",
+      "start": 40.14325,
+      "end": 40.20325,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "his",
+      "start": 40.24325,
+      "end": 40.36325,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "paren'ts",
+      "start": 40.42325,
+      "end": 40.8233125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "nagging",
+      "start": 40.9033125,
+      "end": 41.2833125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "about",
+      "start": 41.3433125,
+      "end": 41.583375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "his",
+      "start": 41.623375,
+      "end": 41.743375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "english",
+      "start": 41.863375,
+      "end": 42.2034375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "study",
+      "start": 42.2434375,
+      "end": 42.5234375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "and",
+      "start": 43.1235,
+      "end": 43.2035,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "did",
+      "start": 43.2235,
+      "end": 43.3435,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "not",
+      "start": 43.3835,
+      "end": 43.5435,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "want",
+      "start": 43.6035,
+      "end": 43.7835625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "to",
+      "start": 43.8235625,
+      "end": 43.8835625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "go",
+      "start": 43.9435625,
+      "end": 44.0235625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "through",
+      "start": 44.1635625,
+      "end": 44.3435625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "it",
+      "start": 44.3435625,
+      "end": 44.4235625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "any",
+      "start": 44.503625,
+      "end": 44.643625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "longer",
+      "start": 44.743625,
+      "end": 45.123625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "he",
+      "start": 46.16375,
+      "end": 46.22375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "couldn't",
+      "start": 46.32375,
+      "end": 46.60375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "get",
+      "start": 46.62375,
+      "end": 46.74375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "along",
+      "start": 46.7838125,
+      "end": 47.1238125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "well",
+      "start": 47.1638125,
+      "end": 47.3038125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "with",
+      "start": 47.3238125,
+      "end": 47.4638125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "english",
+      "start": 47.543875,
+      "end": 47.943875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "and",
+      "start": 48.4439375,
+      "end": 48.5639375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "disliked",
+      "start": 48.5839375,
+      "end": 49.0239375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "joining",
+      "start": 49.0439375,
+      "end": 49.364,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "in",
+      "start": 49.404,
+      "end": 49.484,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "english",
+      "start": 49.604,
+      "end": 49.9040625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "classes",
+      "start": 49.9440625,
+      "end": 50.4840625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "because",
+      "start": 50.804125,
+      "end": 51.084125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "he",
+      "start": 51.104125,
+      "end": 51.164125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "thought",
+      "start": 51.264125,
+      "end": 51.4841875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "his",
+      "start": 51.5241875,
+      "end": 51.6641875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "teacher",
+      "start": 51.7241875,
+      "end": 52.0441875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "ignored",
+      "start": 52.12425,
+      "end": 52.50425,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "him",
+      "start": 52.54425,
+      "end": 52.64425,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "on",
+      "start": 52.70425,
+      "end": 52.80425,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "purpose",
+      "start": 52.86425,
+      "end": 53.4243125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "as",
+      "start": 54.304375,
+      "end": 54.4244375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "a",
+      "start": 54.4844375,
+      "end": 54.5044375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "result",
+      "start": 54.5444375,
+      "end": 55.0044375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "his",
+      "start": 55.3645,
+      "end": 55.5045,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "score",
+      "start": 55.5645,
+      "end": 55.8645,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "in",
+      "start": 55.8845,
+      "end": 55.9645625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "each",
+      "start": 56.0645625,
+      "end": 56.2245625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "exam",
+      "start": 56.2645625,
+      "end": 56.6845625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "never",
+      "start": 56.824625,
+      "end": 57.084625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "added",
+      "start": 57.184625,
+      "end": 57.424625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "up",
+      "start": 57.5046875,
+      "end": 57.6246875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "to",
+      "start": 57.7246875,
+      "end": 57.8046875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "over",
+      "start": 57.9046875,
+      "end": 58.1246875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "his",
+      "start": 60.264875,
+      "end": 60.424875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "partner",
+      "start": 60.504875,
+      "end": 60.8449375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "was",
+      "start": 60.8849375,
+      "end": 60.9849375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "concerned",
+      "start": 61.0449375,
+      "end": 61.485,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "about",
+      "start": 61.505,
+      "end": 61.705,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "him",
+      "start": 61.745,
+      "end": 61.845,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "very",
+      "start": 61.905,
+      "end": 62.1450625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "much",
+      "start": 62.2250625,
+      "end": 62.5250625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "she",
+      "start": 63.145125,
+      "end": 63.245125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "understood",
+      "start": 63.345125,
+      "end": 63.7851875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "exactly",
+      "start": 63.8451875,
+      "end": 64.44525,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "what",
+      "start": 64.58525,
+      "end": 64.70525,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "he",
+      "start": 64.76525,
+      "end": 64.80525,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "was",
+      "start": 64.84525,
+      "end": 64.96525,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "suffering",
+      "start": 65.02525,
+      "end": 65.4653125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "from",
+      "start": 65.5653125,
+      "end": 65.8253125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "but",
+      "start": 66.345375,
+      "end": 66.445375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "entirely",
+      "start": 66.505375,
+      "end": 67.0654375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "disagreed",
+      "start": 67.1454375,
+      "end": 67.7855,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "with",
+      "start": 67.8455,
+      "end": 67.9455,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "his",
+      "start": 67.9655,
+      "end": 68.0855,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "idea",
+      "start": 68.2255625,
+      "end": 68.5655625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "in",
+      "start": 69.425625,
+      "end": 69.505625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "order",
+      "start": 69.625625,
+      "end": 69.8256875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "to",
+      "start": 69.8856875,
+      "end": 69.9456875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "calm",
+      "start": 70.0256875,
+      "end": 70.2456875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "him",
+      "start": 70.3056875,
+      "end": 70.4256875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "down",
+      "start": 70.5056875,
+      "end": 70.84575,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "and",
+      "start": 70.94575,
+      "end": 71.04575,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "settle",
+      "start": 71.12575,
+      "end": 71.4058125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "his",
+      "start": 71.4258125,
+      "end": 71.5458125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "problem",
+      "start": 71.6258125,
+      "end": 72.085875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "she",
+      "start": 72.345875,
+      "end": 72.445875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "talked",
+      "start": 72.525875,
+      "end": 72.8459375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "with",
+      "start": 72.8659375,
+      "end": 72.9859375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "him",
+      "start": 73.0259375,
+      "end": 73.1659375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "face",
+      "start": 73.3459375,
+      "end": 73.666,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "to",
+      "start": 73.726,
+      "end": 73.806,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "face",
+      "start": 73.926,
+      "end": 74.326,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "and",
+      "start": 74.7660625,
+      "end": 74.8860625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "swapped",
+      "start": 74.9460625,
+      "end": 75.286125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "a",
+      "start": 75.346125,
+      "end": 75.366125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "series",
+      "start": 75.466125,
+      "end": 75.806125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "of",
+      "start": 75.846125,
+      "end": 75.9061875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "learning",
+      "start": 75.9861875,
+      "end": 76.2661875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "tips",
+      "start": 76.3061875,
+      "end": 76.5861875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "with",
+      "start": 76.64625,
+      "end": 76.80625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "him",
+      "start": 76.84625,
+      "end": 77.02625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "the",
+      "start": 78.1463125,
+      "end": 78.226375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "items",
+      "start": 78.346375,
+      "end": 78.666375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "she",
+      "start": 78.746375,
+      "end": 78.826375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "set",
+      "start": 78.926375,
+      "end": 79.0864375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "down",
+      "start": 79.1864375,
+      "end": 79.4864375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "helped",
+      "start": 79.6064375,
+      "end": 79.8265,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "him",
+      "start": 79.8665,
+      "end": 79.9665,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "find",
+      "start": 80.0265,
+      "end": 80.3065,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "the",
+      "start": 80.3465,
+      "end": 80.4065,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "highway",
+      "start": 80.4665,
+      "end": 80.8865625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "to",
+      "start": 81.0065625,
+      "end": 81.0865625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "studying",
+      "start": 81.1665625,
+      "end": 81.626625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "english",
+      "start": 81.706625,
+      "end": 82.0266875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "well",
+      "start": 82.1266875,
+      "end": 82.3866875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "the",
+      "start": 83.7668125,
+      "end": 83.8468125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "teenager",
+      "start": 83.9268125,
+      "end": 84.466875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "was",
+      "start": 84.526875,
+      "end": 84.626875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "grateful",
+      "start": 84.706875,
+      "end": 85.2869375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "and",
+      "start": 85.847,
+      "end": 85.947,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "got",
+      "start": 85.987,
+      "end": 86.127,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "great",
+      "start": 86.187,
+      "end": 86.427,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "power",
+      "start": 86.507,
+      "end": 86.8670625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "from",
+      "start": 86.9470625,
+      "end": 87.0870625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "his",
+      "start": 87.1070625,
+      "end": 87.2270625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "friends",
+      "start": 87.2870625,
+      "end": 87.627125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "words",
+      "start": 87.707125,
+      "end": 88.127125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "now",
+      "start": 88.8871875,
+      "end": 89.16725,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "he",
+      "start": 89.62725,
+      "end": 89.6873125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "has",
+      "start": 89.7673125,
+      "end": 89.8873125,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "recovered",
+      "start": 89.9673125,
+      "end": 90.487375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "from",
+      "start": 90.507375,
+      "end": 90.647375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "being",
+      "start": 90.687375,
+      "end": 90.907375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "upset",
+      "start": 90.927375,
+      "end": 91.4074375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "and",
+      "start": 91.8474375,
+      "end": 91.9474375,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "has",
+      "start": 91.9674375,
+      "end": 92.0875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "fallen",
+      "start": 92.1675,
+      "end": 92.5275,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "in",
+      "start": 92.6075,
+      "end": 92.6875,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "love",
+      "start": 92.7475625,
+      "end": 93.0275625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "with",
+      "start": 93.2275625,
+      "end": 93.3875625,
+      "score": 0.0,
+      "case": "success"
+    },
+    {
+      "alignedWord": "english",
+      "start": 93.4875625,
+      "end": 93.927625,
+      "score": 0.0,
+      "case": "success"
+    }
+  ]
+}
