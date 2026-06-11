@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Player — English Enhancement</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<nav class="nav-top">
+  <a href="/align.html">Align</a>
+  <a href="/player.html" class="active">Player</a>
+</nav>
+
+<div class="player-wrap">
+  <!-- Sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <h3>Archives</h3>
+    <div id="sidebarList">
+      <div class="sidebar-empty">Loading…</div>
+    </div>
+  </aside>
+
+  <!-- Main area -->
+  <div class="main-area">
+    <div class="transcript" id="transcript">
+      <div class="welcome">← Select an archive from the sidebar to begin</div>
+    </div>
+    <div class="audio-bar">
+      <audio id="audioPlayer" controls></audio>
+    </div>
+  </div>
+</div>
+
+<script src="/app.js"></script>
+<script>
+let currentSlug = null;
+let currentSentences = [];
+let activeSentenceIdx = -1;
+
+const sidebarList = document.getElementById('sidebarList');
+const transcriptEl = document.getElementById('transcript');
+const audioPlayer = document.getElementById('audioPlayer');
+
+// ── Load sidebar ───────────────────────────────────────────────────────
+async function loadArchives() {
+  try {
+    const resp = await fetch('/api/archives');
+    const data = await resp.json();
+    renderSidebar(data.archives);
+  } catch (e) {
+    sidebarList.innerHTML = '<div class="sidebar-empty">Failed to load archives</div>';
+  }
+}
+
+function renderSidebar(archives) {
+  if (!archives.length) {
+    sidebarList.innerHTML = '<div class="sidebar-empty">No archives yet.<br><a href="/align.html">Create one →</a></div>';
+    return;
+  }
+  sidebarList.innerHTML = archives.map(a => {
+    const label = a.num ? escHtml(a.num + '. ' + a.title) : escHtml(a.title);
+    return `
+    <div class="sidebar-item${a.slug === currentSlug ? ' active' : ''}"
+         data-slug="${escAttr(a.slug)}" onclick="selectArchive('${escAttr(a.slug)}')">
+      <div>${label}</div>
+      <div class="meta">${a.sentence_count || 0} sentences</div>
+    </div>`;
+  }).join('');
+}
+
+// ── Select archive ─────────────────────────────────────────────────────
+async function selectArchive(slug) {
+  currentSlug = slug;
+  window.location.hash = slug;
+
+  // Highlight sidebar
+  document.querySelectorAll('.sidebar-item').forEach(el => {
+    el.classList.toggle('active', el.dataset.slug === slug);
+  });
+
+  transcriptEl.innerHTML = '<div class="loading">Loading transcript…</div>';
+
+  try {
+    const resp = await fetch('/api/archive/' + encodeURIComponent(slug));
+    if (!resp.ok) throw new Error('Not found');
+    const data = await resp.json();
+    currentSentences = data.sentences;
+    renderTranscript(currentSentences);
+    audioPlayer.src = '/audio/' + encodeURIComponent(slug);
+    audioPlayer.load();
+  } catch (e) {
+    transcriptEl.innerHTML = '<div class="loading">Failed to load transcript.</div>';
+  }
+}
+
+// ── Render transcript ──────────────────────────────────────────────────
+function renderTranscript(sentences) {
+  transcriptEl.innerHTML = sentences.map((s, i) =>
+    `<span class="sentence" data-idx="${i}" data-start="${s.start}" data-end="${s.end}"
+           onclick="clickSentence(${i})">${escHtml(s.text)} </span>`
+  ).join('');
+}
+
+// ── Click sentence → seek & play ───────────────────────────────────────
+function clickSentence(idx) {
+  if (!currentSentences.length) return;
+  const s = currentSentences[idx];
+  audioPlayer.currentTime = s.start;
+  audioPlayer.play();
+  highlightSentence(idx);
+}
+
+function highlightSentence(idx) {
+  document.querySelectorAll('.sentence').forEach(el => el.classList.remove('playing'));
+  const el = document.querySelector(`.sentence[data-idx="${idx}"]`);
+  if (el) {
+    el.classList.add('playing');
+    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+  activeSentenceIdx = idx;
+}
+
+// ── Auto-highlight during playback ─────────────────────────────────────
+audioPlayer.addEventListener('timeupdate', () => {
+  if (!currentSentences.length) return;
+  const t = audioPlayer.currentTime;
+  for (let i = 0; i < currentSentences.length; i++) {
+    if (t >= currentSentences[i].start && t < currentSentences[i].end) {
+      if (activeSentenceIdx !== i) highlightSentence(i);
+      return;
+    }
+  }
+});
+
+// ── Helpers ────────────────────────────────────────────────────────────
+function escHtml(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+function escAttr(s) {
+  return s.replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/'/g,'&#39;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+// ── Init ───────────────────────────────────────────────────────────────
+loadArchives();
+
+// Check hash for direct navigation from align page
+const hash = window.location.hash.slice(1);
+if (hash) {
+  selectArchive(decodeURIComponent(hash));
+}
+</script>
+
+</body>
+</html>

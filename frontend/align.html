@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Align — English Enhancement</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<nav class="nav-top">
+  <a href="/align.html" class="active">Align</a>
+  <a href="/player.html">Player</a>
+</nav>
+
+<div class="container">
+  <div class="card">
+    <h2>Text Transcript</h2>
+    <textarea id="textInput" placeholder="Paste your transcript text here...&#10;&#10;Each sentence should be separated by a newline or punctuation."></textarea>
+  </div>
+
+  <div class="card">
+    <h2>Audio File</h2>
+    <label for="audioFile">Select the audio recording (mp3 / wav):</label>
+    <input type="file" id="audioFile" accept="audio/*">
+  </div>
+
+  <div class="card">
+    <h2>Title</h2>
+    <label for="titleInput">Give this alignment a title:</label>
+    <input type="text" id="titleInput" placeholder="e.g. Lecture 1 - Introduction">
+  </div>
+
+  <button class="btn btn-primary" id="alignBtn" onclick="startAlignment()">
+    Start Alignment
+    <span class="spinner" id="spinner"></span>
+  </button>
+
+  <div class="result" id="result"></div>
+</div>
+
+<script src="/app.js"></script>
+<script>
+async function startAlignment() {
+  const text = document.getElementById('textInput').value.trim();
+  const audioEl = document.getElementById('audioFile');
+  const title = document.getElementById('titleInput').value.trim();
+  const btn = document.getElementById('alignBtn');
+  const spinner = document.getElementById('spinner');
+  const resultEl = document.getElementById('result');
+
+  resultEl.className = 'result';
+  resultEl.innerHTML = '';
+
+  if (!text) { showResult('error', 'Please paste the transcript text.'); return; }
+  if (!audioEl.files.length) { showResult('error', 'Please select an audio file.'); return; }
+  if (!title) { showResult('error', 'Please enter a title.'); return; }
+
+  btn.disabled = true;
+  spinner.classList.add('active');
+
+  const form = new FormData();
+  form.append('text', text);
+  form.append('title', title);
+  form.append('audio', audioEl.files[0]);
+
+  try {
+    const resp = await fetch('/align', { method: 'POST', body: form });
+    const data = await resp.json();
+    if (!resp.ok) {
+      showResult('error', data.detail || 'Alignment failed.');
+    } else {
+      showResult('success', `
+        <p><strong>Alignment complete!</strong></p>
+        <table>
+          <tr><td>Title</td><td>${escHtml(data.title)}</td></tr>
+          <tr><td>Words aligned</td><td>${data.word_count}</td></tr>
+          <tr><td>Sentences</td><td>${data.sentence_count}</td></tr>
+          <tr><td>Duration</td><td>${data.duration}s</td></tr>
+        </table>
+        <br>
+        <a href="/player.html#${encodeURIComponent(data.slug)}" class="btn btn-outline">Open in Player →</a>
+      `);
+    }
+  } catch (e) {
+    showResult('error', 'Network error: ' + e.message);
+  } finally {
+    btn.disabled = false;
+    spinner.classList.remove('active');
+  }
+}
+
+function showResult(type, html) {
+  const el = document.getElementById('result');
+  el.className = 'result ' + type;
+  el.innerHTML = html;
+}
+
+function escHtml(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+</script>
+
+</body>
+</html>
